@@ -16,6 +16,7 @@ class Solution:
             count += 1
         return j_s       
 # @lc code=end
+### how to make use of dictionary?
 class Solution2:
     def numJewelsInStones(self, jewels: str, stones: str) -> int:
         dictj = {}
