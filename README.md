@@ -1,8 +1,9 @@
 # Problem solutions
-    - array - easy problems
-    - linked lists - easy problems
-    - hash table - esay problems
-# Linked lists
+- array
+- linked lists
+    - [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) - **review needed**
+- hash table
+# [Linked lists](https://leetcode.com/tag/linked-list/)
 - ## Compared to array
     | Data Structure | Insertion/Deletion (Time Complexity) | Query (Time Complexity) | Suitable Use Cases                            |
     | -------------- | ----------------------------------- | ---------------------- | --------------------------------------------- |
